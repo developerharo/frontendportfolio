@@ -16,7 +16,7 @@ function About() {
           className="profile-photo"
           alt="profile-photo"
           src={information.photo}
-        ></img>
+        />
       </div>
       <div className="description">
         <h1>{information.name}</h1>

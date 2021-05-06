@@ -1,0 +1,32 @@
+.About {
+  background-color: seashell;
+  display: flex;
+  margin: 10px auto;
+  width: 80%;
+  padding: 2rem;
+  border-radius: 3%;
+  box-shadow: 10px 5px 5px black;
+}
+
+.div-photo {
+  display: inline;
+}
+
+.profile-photo {
+  width: 80%;
+}
+
+.description {
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.skill {
+  background-color: palevioletred;
+  margin: 0.8rem;
+  padding: 1rem;
+  border-radius: 6%;
+}
