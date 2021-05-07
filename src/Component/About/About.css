@@ -12,11 +12,12 @@
   display: inline;
 }
 
-.profile-photo {
+.profile-imagge {
   width: 80%;
 }
 
 .description {
+  justify-content: center;
 }
 
 .skills {
@@ -26,7 +27,7 @@
 
 .skill {
   background-color: palevioletred;
-  margin: 0.8rem;
-  padding: 1rem;
+  margin: 0.3rem;
+  padding: 0.8rem;
   border-radius: 6%;
 }

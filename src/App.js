@@ -1,4 +1,3 @@
-import react from "react";
 import "./App.css";
 import About from "./Component/About/About";
 import Portfolio from "./Component/Portfolio/Portfolio";
